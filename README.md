@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cho-HyeonDeok
-- 👀 I’m interested in Machine Learning, NLP, Action Recognition
-- 🌱 I’m currently learning NLP, Action Recognition (Transformer)
+- 👀 I’m interested in Machine Learning, NLP, Action Recognition, Graph
+- 🌱 I’m currently learning NLP, Action Recognition, Graph (Transformer)
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me welnet5739@korea.ac.kr(most use it), sante1458@gmail.com
 
